@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Solirius\Documents\VuGen\Scripts\LoadRunner2021\Probate\001_Probate_CreateCase
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\solirius\documents\vugen\scripts\loadrunner2021\probate\001_probate_createcase\\logfile.log
+c:\users\solirius\documents\vugen\scripts\loadrunner2021\probate\001_probate_createcase\\combined_001_Probate_CreateCase.c
+c:\users\solirius\documents\vugen\scripts\loadrunner2021\probate\001_probate_createcase\\pre_cci.c
